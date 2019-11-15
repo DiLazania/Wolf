@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 asdfghjkl
+=======
+hi, i'sdfsvm lazanfsdia
+sdfs
+fsf
+dsgsg
+>>>>>>> qwerty
